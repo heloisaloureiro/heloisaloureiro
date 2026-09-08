@@ -8,14 +8,10 @@ markdown
 <!-- TYPING ANIMATION & SUBTITLE -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=LOADING+COGNITIVE+INTERFACE...;ACCESS+GRANTED+%E2%9C%93;WELCOME+TO+MY+DIGITAL+CORE;BUILDING+THE+FUTURE+WITH+AI" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=WELLCOME+TO+MY+CODE+UNIVERSE...;ACCESS+GRANTED+%E2%9C%93;BUILDING+THE+FUTURE+WITH+AI" alt="Typing Effect" />
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_4-00f2fe?style=flat-square&logo=matrix&logoColor=00f2fe" alt="Clearance" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff66?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/AI_SYNC-OPTIMIZED-bf5af2?style=flat-square" alt="AI Sync" />
 </p>
 
 ---
