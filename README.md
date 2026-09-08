@@ -9,7 +9,8 @@ markdown
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=7D26CD&center=true&vCenter=true&width=500&lines=WELLCOME+TO+MY+CODE+UNIVERSE....;ACCESS+GRANTED+%E2%9C%93;BUILDING+THE+FUTURE+WITH+AI" alt="Typing Effect" />
-
+  </a>
+</h1>
 </p>
 
 ---
@@ -46,5 +47,5 @@ Olá, me chamo Heloisa! Aqui no meu núcleo digital, você encontrará projetos 
 
 <!-- FOOTER -->
 
-
+</p>
 
