@@ -2,7 +2,7 @@ markdown
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=HELOISA%20lOUEREIRO&fontSize=40&animation=twinkling&fontColor=8A2BE2&theme=purple" width="100%" alt="Cyberpunk Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7EC0EE&height=250&section=header&text=HELOISA%20lOUEREIRO&fontSize=40&animation=twinkling&fontColor=8A2BE2&theme=purple" width="100%" alt="Cyberpunk Banner" />
 </p>
 
 <!-- TYPING ANIMATION & SUBTITLE -->
@@ -17,20 +17,20 @@ markdown
 ---
 
 <!-- TERMINAL / ABOUT ME -->
-## 🌐 `[SYS_CORE // ABOUT_ME]`
+## 👾​ `[Sobre Mim]`
 
-%%MAGIT_PARSER_PROTECT%%```microdos
-> INITIALIZING USER_PROFILE.EXE...
-> CONNECTION: SECURE [SSL_ENABLED]
-> LOCATION: BRAZIL // CYBERSPACE
-> MAIN_OBJECTIVE: ARCHITECTING INTELLIGENT SYSTEMS & HIGH-PERFORMANCE CODE
-%%MAGIT_PARSER_PROTECT%%```
+Olá, me chamo Heloisa! Aqui no meu núcleo digital, você encontrará projetos do meu desenvolvimento em tecnologia.
 
-Olá, viajante! Sou um desenvolvedor focado em criar soluções robustas, inteligentes e com design de ponta. Fascinado por Inteligência Artificial, automação e interfaces futuristas. Aqui no meu núcleo digital, você encontrará projetos que desafiam os limites do desenvolvimento tradicional.
+🎓 Estudante de Administração e Desenvolvimento de Sistemas
 
-- 🛠️ **Foco Atual:** Arquitetura de Software e Integração de Modelos de IA LLMs.
-- ⚡ **Filosofia:** *"O melhor jeito de prever o futuro é programando-o."*
-- 🧠 **Modo Operante:** Café transformado em algoritmos otimizados de alta performance.
+💻 Atualmente aprendendo:
+🐍 Python
+🌐 HTML
+🎨 CSS
+
+- 🌱 Sempre aprendendo e criando novos projetos com a criatividade nas alturas!
+- ⚡ *"O melhor jeito de prever o futuro é programando-o."*
+
 
 ---
 
