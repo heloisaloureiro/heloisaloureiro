@@ -2,13 +2,13 @@ markdown
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=SYSTEM%20INITIALIZATION&fontSize=40&animation=twinkling&fontColor=00f2fe&theme=dark" width="100%" alt="Cyberpunk Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=HELOISA%20lOUEREIRO&fontSize=40&animation=twinkling&fontColor=00f2fe&theme=purple" width="100%" alt="Cyberpunk Banner" />
 </p>
 
 <!-- TYPING ANIMATION & SUBTITLE -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=WELLCOME+TO+MY+CODE+UNIVERSE...;ACCESS+GRANTED+%E2%9C%93;BUILDING+THE+FUTURE+WITH+AI" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=WELLCOME+TO+MY+CODE+UNIVERSE....;ACCESS+GRANTED+%E2%9C%93;BUILDING+THE+FUTURE+WITH+AI" alt="Typing Effect" />
   </a>
 </h1>
 
