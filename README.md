@@ -2,7 +2,7 @@ markdown
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&background-image: linear-gradient(to right, #8B008B, #9400D3);
+  <img src="https://capsule-render.vercel.app/api?linear-gradient(to right, #8B008B, #9400D3);
 &height=250&section=header&text=HELOISA%20lOUEREIRO&fontSize=40&animation=twinkling&fontColor=FFFAF02&theme=purple" width="100%" alt="Cyberpunk Banner" />
 </p>
 
