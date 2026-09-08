@@ -2,7 +2,7 @@ markdown
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=warving&color=#9400D3&height=250&section=header&text=HELOISA%20lOUEREIRO&fontSize=40&animation=twinkling&fontColor=FFFAF02&theme=purple" width="100%" alt="Cyberpunk Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=SYSTEM%20INITIALIZATION&fontSize=40&animation=twinkling&fontColor=00f2fe&theme=dark" width="100%" alt="Cyberpunk Banner" />
 </p>
 
 <!-- TYPING ANIMATION & SUBTITLE -->
